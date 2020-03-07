@@ -1,0 +1,1 @@
+# Remove-all-log-groups-from-AWS-Cloudwatch-logs
